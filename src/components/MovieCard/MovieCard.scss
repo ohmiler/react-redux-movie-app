@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.card-image img {
+    width: 100%;
+}
+
+.card-action a {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: .5rem;
+    display: inline-block;
+    margin-top: .5rem;
+    border-radius: 5px;
+}
